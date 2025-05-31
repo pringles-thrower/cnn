@@ -51,11 +51,5 @@ PWaveNET-Picker/
 
 ## Требования
 
-```text
-numpy
-pandas
-matplotlib
-scipy
-scikit-learn
-torch
-```
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)]
