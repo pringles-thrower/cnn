@@ -33,8 +33,9 @@
 
 ## Требования
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)]
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.7+-orange.svg)](https://pytorch.org/)  
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Демонстрация результатов
 
